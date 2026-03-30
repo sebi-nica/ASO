@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ReadKeys.vcxproj" Id="60a90494-83ea-4a20-bc50-6d8559fa9724" />
+</Solution>
