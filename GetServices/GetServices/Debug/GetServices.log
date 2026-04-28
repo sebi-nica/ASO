@@ -1,0 +1,14 @@
+﻿  GetServices.c
+D:\programare\ASO\GetServices\GetServices.c(42,44): warning C4133: 'function': incompatible types - from 'WCHAR [256]' to 'const char *'
+D:\programare\ASO\GetServices\GetServices.c(42,85): warning C4133: 'function': incompatible types - from 'WCHAR [256]' to 'const char *'
+D:\programare\ASO\GetServices\GetServices.c(43,40): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+      D:\programare\ASO\GetServices\GetServices.c(43,40):
+      consider using '%ls' in the format string
+      D:\programare\ASO\GetServices\GetServices.c(43,40):
+      consider using '%lls' in the format string
+      D:\programare\ASO\GetServices\GetServices.c(43,40):
+      consider using '%Ls' in the format string
+      D:\programare\ASO\GetServices\GetServices.c(43,40):
+      consider using '%ws' in the format string
+  
+  GetServices.vcxproj -> D:\programare\ASO\GetServices\Debug\GetServices.exe

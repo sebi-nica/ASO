@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programare\\ASO\\GetServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA64254-EA50-425A-A18B-3E186E62C841}|GetServices.vcxproj|D:\\programare\\ASO\\GetServices\\GetServices.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FA64254-EA50-425A-A18B-3E186E62C841}|GetServices.vcxproj|solutionrelative:GetServices.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetServices.c",
+              "DocumentMoniker": "D:\\programare\\ASO\\GetServices\\GetServices.c",
+              "RelativeDocumentMoniker": "GetServices.c",
+              "ToolTip": "D:\\programare\\ASO\\GetServices\\GetServices.c",
+              "RelativeToolTip": "GetServices.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-30T20:10:41.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
