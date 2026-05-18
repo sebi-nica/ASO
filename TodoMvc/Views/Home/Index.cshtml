@@ -1,0 +1,23 @@
+﻿@model List<TodoMvc.Models.Todo>
+
+<h2>My TODO list</h2>
+
+<form action="/Home/Add" method="post">
+    <input type="text" name="name" placeholder="What's on your mind?" required />
+    <button type="submit">Add</button>
+</form>
+
+<hr />
+
+<ul>
+    @foreach (var todo in Model)
+    {
+        <li style="margin-bottom: 10px;">
+            @todo.Name
+            <form action="/Home/Delete" method="post" style="display:inline;">
+                <input type="hidden" name="id" value="@todo.Id" />
+                <button type="submit">delete</button>
+            </form>
+        </li>
+    }
+</ul>
